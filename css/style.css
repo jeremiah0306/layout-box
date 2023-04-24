@@ -1,0 +1,147 @@
+*{
+padding:0;
+margin:0;
+}
+.content_container{
+	height:100px;
+	background-color:grey;
+	display:flex;
+	}
+.small{
+    height: 100px;
+    background-color: black;
+    width: 111px;
+    position: relative;
+    left: 100px;
+}
+.big{
+	 height: 100px;
+    background-color: black;
+    width: 551px;
+    position: relative;
+    left: 403px;
+}
+.content2_container{
+	height: 281px;
+    background-color: grey;
+    display: flex;
+    top: 2px;
+	position:relative;
+	}
+.great1{
+    height: 281px;
+    background-color: black;
+    width: 526px;
+    position: relative;
+    left: 33px;
+		border:1px solid white;
+}
+.great2{
+	 height: 281px;
+    background-color: black;
+    width: 526px;
+    position: relative;
+    left: 37px;
+	border:1px solid white;
+}
+.content3_container{
+	height: 678px;
+    background-color: grey;
+    display: flex;
+    top: 6px;
+    position: relative;
+		border:1px solid white;
+}
+	
+.box{
+	display:flex;
+}
+
+.box1{
+	height: 100px;
+    background-color: black;
+	border:1px solid white;
+    width: 111px;
+    position: relative;
+    left: 66px;
+    bottom: 45px;
+}
+.box2{
+	height: 100px;
+    background-color: black;
+	border:1px solid white;
+    width: 111px;
+    position: relative;
+    left: 202px;
+	bottom: 45px;
+
+}
+.box3{
+	height: 100px;
+    background-color: black;
+	border:1px solid white;
+    width: 111px;
+    position: relative;
+    left: 374px;
+	bottom: 45px;
+
+}
+.box4{
+	height: 100px;
+    background-color: black;
+	border:1px solid white;
+    width: 111px;
+    position: relative;
+    left: 524px;
+	bottom: 45px;
+}
+.rectangle_section{
+	display:flex;
+}
+.rectangle{
+	
+	height: 130px;
+    background-color: black;
+	border:1px solid white;
+    width: 674px;
+    position: relative;
+    top: 110px;
+    right: 227px;
+}
+.square{
+	display:flex;
+}
+.square1{
+	height: 281px;
+    background-color: black;
+	border:1px solid white;
+    width: 526px;
+    position: relative;
+    top: 275px;
+    right: 1007px;
+}
+.square2
+{
+	height: 281px;
+    background-color: black;
+    width: 526px;
+    position: relative;
+    top: 275px;
+    right: 1004px;
+	border:1px solid white;
+}
+.longbox
+{
+	display:flex;
+}
+.dump
+{
+	height: 90px;
+    background-color: black;
+    border: 1px solid white;
+    width: 674px;
+    position: relative;
+    top: 570px;
+    right: 1887px;
+
+}
